@@ -16,6 +16,23 @@ This is a Spring Boot 2.4-based REST API application for managing assets in a co
 - Maven build system
 
 ---
+## 📁 Project Structure
+
+demo/
+├── src/
+│ ├── main/
+│ │ ├── java/
+│ │ │ └── com/example/demo/
+│ │ │ ├── controller/ # REST controllers
+│ │ │ ├── model/ # Entity classes (Employee, Asset, Category)
+│ │ │ ├── repository/ # JPA repositories
+│ │ │ └── service/ # Business logic
+│ │ └── resources/
+│ │ ├── application.properties
+├── pom.xml
+└── README.md
+
+---
 
 ## 🧪 API Endpoints
 
