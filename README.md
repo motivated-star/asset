@@ -54,7 +54,7 @@ This is a Spring Boot 2.4-based REST API application for managing assets in a co
 
 ```bash
 # Clone the project
-git clone[ https://github.com/your-username/asset-management-api.git](https://github.com/motivated-star/asset.git)
+git clone https://github.com/motivated-star/asset.git
 
 # Navigate into the project
 cd asset
